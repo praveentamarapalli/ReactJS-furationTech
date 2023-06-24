@@ -30,7 +30,7 @@ Overall, this project provides a user-friendly interface for browsing books, add
 
 Note: Due to lack of books API calls I have used existing API call related to a shopping website. This API urls can be easily modified with the new books urls.
 
-> githubLink:
+> githubLink: https://github.com/praveentamarapalli/ReactJS-furationTech
 
 > gooleDriveLink: https://drive.google.com/drive/folders/1vlf7SDH7Tw_M_B3grSDfKhZf6aHHL45B?usp=drive_link
 
